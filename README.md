@@ -4,7 +4,7 @@ End-to-end analytics: Used MySQL on Databricks for cleaning + EDA of 527 claims,
 ## End-to-End Analytics Pipeline
 
 **1. Data Exploration - MySQL on Databricks**  
-Started by investigating the raw dataset to understand structure, data types, distributions, and quality issues. Queried row counts, checked for duplicates, and profiled key fields such as claim amounts, dates, and policy types to get a feel for the data before cleaning. [`01_RAW_data_exploration_databricks.pdf']
+Started by investigating the raw dataset to understand structure, data types, distributions, and quality issues. Queried row counts, checked for duplicates, and profiled key fields such as claim amounts, dates, and policy types to get a feel for the data before cleaning. [`01_RAW_data_exploration_databricks.pdf`]
 
 
 **2. Data Cleaning  - MySQL on Databricks**  
